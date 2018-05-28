@@ -10,3 +10,4 @@
 ## 3
 Использовав регулярное выражение: Нов(ъ|ѣ|а|у)?город[а-я]* я нашла все различные упоминания Новгорада. В тексте 59 его упоминаний: 
 ![](https://github.com/uliagusevaa123/hw9/blob/master/photo_2018-05-28_23-13-30.jpg?raw=true)
+![](https://github.com/uliagusevaa123/hw9/blob/master/photo_2018-05-28_23-14-28.jpg?raw=true)
